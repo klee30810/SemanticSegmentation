@@ -1,0 +1,39 @@
+110th Epoch, 40600th Step, learning rate = 0.00582822078711226 - Loss: 0.3604377508163452
+<40600th step>
+1th Epoch, 40600th Step, learning rate = 0.0058281146048447 - Loss: 0.2974422872066498
+<40600th step>
+*************************** Test ***************************
+time:4m 25s, 40600th Step, Loss: 0.6723215579986572, Mean IoU = 41.419%
+************************************************************
+1th Epoch, 40605th Step, learning rate = 0.005827583690282569 - Loss: 0.3025614023208618
+1th Epoch, 40610th Step, learning rate = 0.005827052770346128 - Loss: 0.26826775074005127
+1th Epoch, 40615th Step, learning rate = 0.005826521845034781 - Loss: 0.28973448276519775
+1th Epoch, 40620th Step, learning rate = 0.005825990914347927 - Loss: 0.3745049238204956
+1th Epoch, 40625th Step, learning rate = 0.0058254599782849685 - Loss: 0.31228020787239075
+1th Epoch, 40630th Step, learning rate = 0.005824929036845307 - Loss: 0.28672268986701965
+1th Epoch, 40635th Step, learning rate = 0.005824398090028341 - Loss: 0.28966453671455383
+1th Epoch, 40640th Step, learning rate = 0.005823867137833474 - Loss: 0.2536357641220093
+1th Epoch, 40645th Step, learning rate = 0.005823336180260106 - Loss: 0.26675230264663696
+1th Epoch, 40650th Step, learning rate = 0.005822805217307635 - Loss: 0.298161119222641
+1th Epoch, 40655th Step, learning rate = 0.005822274248975467 - Loss: 0.36153191328048706
+1th Epoch, 40660th Step, learning rate = 0.005821743275262997 - Loss: 0.32884490489959717
+1th Epoch, 40665th Step, learning rate = 0.005821212296169628 - Loss: 0.27159205079078674
+1th Epoch, 40670th Step, learning rate = 0.005820681311694761 - Loss: 0.2745700776576996
+1th Epoch, 40675th Step, learning rate = 0.005820150321837793 - Loss: 0.23082302510738373
+1th Epoch, 40680th Step, learning rate = 0.005819619326598126 - Loss: 0.3006584942340851
+1th Epoch, 40685th Step, learning rate = 0.005819088325975159 - Loss: 0.31011664867401123
+1th Epoch, 40690th Step, learning rate = 0.005818557319968292 - Loss: 0.26429733633995056
+1th Epoch, 40695th Step, learning rate = 0.005818026308576924 - Loss: 0.26957544684410095
+1th Epoch, 40700th Step, learning rate = 0.005817495291800454 - Loss: 0.28196072578430176
+<40700th step>
+*************************** Test ***************************
+time:4m 39s, 40700th Step, Loss: 0.7003557085990906, Mean IoU = 41.906%
+************************************************************
+1th Epoch, 40705th Step, learning rate = 0.005816964269638282 - Loss: 0.25617921352386475
+1th Epoch, 40710th Step, learning rate = 0.005816433242089807 - Loss: 0.28528887033462524
+1th Epoch, 40715th Step, learning rate = 0.005815902209154428 - Loss: 0.2632913887500763
+1th Epoch, 40720th Step, learning rate = 0.005815371170831542 - Loss: 0.25307798385620117
+1th Epoch, 40725th Step, learning rate = 0.005814840127120552 - Loss: 0.3378506004810333
+1th Epoch, 40730th Step, learning rate = 0.005814309078020853 - Loss: 0.3518117666244507
+1th Epoch, 40735th Step, learning rate = 0.0058137780235318435 - Loss: 0.3093915283679962
+1th Epoch, 5th Step, learning rate = 0.009999499998611083 - Loss: 2.3536155223846436
